@@ -15,4 +15,4 @@ global user.name "lin"
 |git push origin master | 仓库之中已有内容时的推送|
 |git remote rm origin |解除与当前仓库的关联 |
 
-![Alt text](https://github.com/lingchaolin/NoteBook/Img/2019_3_19_test.jpg.jpg)
+![Alt text](Img/2019_3_19_test.jpg.jpg)
